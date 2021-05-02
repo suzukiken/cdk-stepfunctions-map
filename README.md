@@ -5,4 +5,4 @@ To deploy state machine of map task.
 * `npm install`
 * `cdk deploy`
 
-[description](https://figmentresearch.com/aws/cdkstepfunctions-map)
+[description](https://note.figmentresearch.com/aws/cdkstepfunctions-map)
